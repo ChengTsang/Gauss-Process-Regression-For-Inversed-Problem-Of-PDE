@@ -32,4 +32,5 @@ when you need to use your own pde, you need only change the ThomasAlgorithm.m an
 ### Dependencies
 1. GP
 2.  MCMC
+
 those are useful in matlab toolbox 

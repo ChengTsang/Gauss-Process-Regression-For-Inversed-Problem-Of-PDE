@@ -6,23 +6,17 @@ This program is a highly modular program, you can change the PDE equation of the
 
 ### Result：
 From the demo I given in my test modular, we could see it is easy for GPR to fir arbitrary functions. It can even give the 95% confidence interval.
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181119112810600.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTY3OTQxMQ==,size_9,color_FFFFFF,t_70)
-
 <center>
 <img src="https://img-blog.csdnimg.cn/20181119112810600.jpg" width=50% height=50% /> 
 </center>
 
 back to the main program, from the figure below, we could also see the process of sampling.
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181119113656957.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTY3OTQxMQ==,size_16,color_FFFFFF,t_70)
 <center>
 <img src="https://img-blog.csdnimg.cn/20181119113656957.jpg" width=50% height=50% /> 
 </center>
 the reslut for the distribution of parameters are here:
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2018111911384324.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTY3OTQxMQ==,size_16,color_FFFFFF,t_70)
 <center>
-<img src="https://img-blog.csdnimg.cn/20181119113656957.jpg" width=50% height=50% /> 
+<img src="https://img-blog.csdnimg.cn/2018111911384324.jpg" width=50% height=50% /> 
 </center>
 
 ### Usage

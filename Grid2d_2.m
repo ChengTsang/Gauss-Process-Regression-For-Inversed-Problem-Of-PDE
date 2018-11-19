@@ -1,4 +1,4 @@
-function ym=demoGrid2d_2(Udata)
+function ym=Grid2d_2(Udata)
 %x1 = linspace(-2,2,120); x2 = linspace(-3,3,130);
 x1 = linspace(0.01,1,100); x2 = linspace(0.01,1,100);
 x = apxGrid('expand',{x1',x2'});

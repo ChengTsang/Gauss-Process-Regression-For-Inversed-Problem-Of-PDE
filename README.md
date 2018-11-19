@@ -18,13 +18,15 @@ the reslut for the distribution of parameters are here:
 ### Usage
  you can use regAndPre function to implement my program.
 a. When there is no parameter, the first part is to provide data for training, and it needs to solve many times PDE.
-	regAndPre()
-	
+```	
+regAndPre()
+```	
 b. When there is a parameter, second parts are executed to transform between the matrix and the vector.
 
 c. when there are 5 parameters , third parts perform and get the observation vector.
-	regAndPre(x0,y0,yadta,A,Hyp)
-	
+```	
+regAndPre(x0,y0,yadta,A,Hyp)
+```	
 when you need to use your own pde, you need only change the ThomasAlgorithm.m and DYakonov_DiffMethod.m program. You should pay attention to the data frame for the input and output.
 
 ### Dependencies

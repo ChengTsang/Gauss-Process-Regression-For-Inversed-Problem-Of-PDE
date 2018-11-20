@@ -42,3 +42,6 @@ when you need to use your own pde, you need only change the ThomasAlgorithm.m an
 2.  MCMC
 
 those are useful in matlab toolbox 
+
+### Reference
+[Bayesian approach to a nonlinear inverse problem for a time-space fractional diffusion equation](http://iopscience.iop.org/article/10.1088/1361-6420/aae04f/meta)

@@ -1,6 +1,6 @@
 ﻿## Gauss Progress Regression for Solving Inverse Problem of PDE
 
-Using Bayesian framework to solve PDE inverse problem is a classical method. In this program, I use GPR as an approximation function, which improves the time efficiency of Bayesian framework by five times and obtains the same results as traditional methods. You can learn more details from this article.
+Using Bayesian framework to solve PDE inverse problem is a classical method. In this program, I use GPR as an approximation function, which improves the time efficiency of Bayesian framework by five times and obtains the same results as traditional methods. You can learn more details from this article：http://iopscience.iop.org/article/10.1088/1361-6420/aae04f/meta
 
 This program is a highly modular program, you can change the PDE equation of the original problem into any equation you want without any other modification.
 

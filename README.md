@@ -11,9 +11,9 @@ From the demo I given in my test modular, we could see it is easy for GPR to fir
 </center>
 
 back to the main program, from the figure below, we could also see the process of sampling.
-<center>
+<div align=center>
 <img src="https://img-blog.csdnimg.cn/20181119113656957.jpg" width=50% height=50% /> 
-</center>
+</div align>
 the reslut for the distribution of parameters are here:
 <center>
 <img src="https://img-blog.csdnimg.cn/2018111911384324.jpg" width=50% height=50% /> 

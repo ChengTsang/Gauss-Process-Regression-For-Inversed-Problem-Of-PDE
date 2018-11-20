@@ -6,18 +6,18 @@ This program is a highly modular program, you can change the PDE equation of the
 
 ### Result：
 From the demo I given in my test modular, we could see it is easy for GPR to fir arbitrary functions. It can even give the 95% confidence interval.
-<center>
+<div align=center>
 <img src="https://img-blog.csdnimg.cn/20181119112810600.jpg" width=50% height=50% /> 
-</center>
+</div align>
 
 back to the main program, from the figure below, we could also see the process of sampling.
 <div align=center>
 <img src="https://img-blog.csdnimg.cn/20181119113656957.jpg" width=50% height=50% /> 
 </div align>
 the reslut for the distribution of parameters are here:
-<center>
+<div align=center>
 <img src="https://img-blog.csdnimg.cn/2018111911384324.jpg" width=50% height=50% /> 
-</center>
+</div lign>
 
 ### Usage
  you can use regAndPre function to implement my program.

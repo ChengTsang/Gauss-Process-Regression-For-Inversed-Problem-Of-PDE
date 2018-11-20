@@ -21,6 +21,7 @@ the reslut for the distribution of parameters are here:
 
 ### Usage
  you can use regAndPre function to implement my program.
+
 a. When there is no parameter, the first part is to provide data for training, and it needs to solve many times PDE.
 ```	
 regAndPre()
